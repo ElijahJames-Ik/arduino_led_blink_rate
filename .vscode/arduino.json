@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM5",
+    "sketch": "arduino_led_blink_rate.ino",
+    "programmer": "arduino:avrispmkii"
+}
